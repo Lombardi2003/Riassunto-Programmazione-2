@@ -9,5 +9,7 @@ git clone https://github.com/Lombardi2003/Riassunto-Programmazione-2.git
 cd '.\Esame'
 ```
 2. Avvia il **[Makefile](Makefile)** per eseguire il programma.
+
+3. Consulta la traccia dell’esame su **[traccia.md](traccia.md)**
 --- 
 Buona programmazione! 💻✨
